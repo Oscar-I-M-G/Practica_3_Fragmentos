@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Fragmentos</string>
+    <string name="tituloTV">Actividad</string>
+    <string name="fraseB">Cambia Fragmentos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment_1">Layout del fragmento 1</string>
+    <string name="hello_blank_fragment_2">Layout del fragmento 2</string>
 </resources>
